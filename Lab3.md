@@ -8,4 +8,5 @@ Command used-
 lab_file="editing_final_lab.txt"
 nano "$lab_file"
 
-![Screenshot 2025-03-18 145918](https://github.com/user-attachments/assets/44f64ff1-5e39-45d6-9c47-cbd11fdbf8e9)
+![Screenshot 2025-03-18 145918](https://github.com/user-attachments/assets/d4bece4c-9ee6-46ac-aa4b-f2ecd9532561)
+
