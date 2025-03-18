@@ -6,7 +6,7 @@ for organizing your files, and name the
 subdirectories friends, family, and work. Use a single
 command to create all three subdirectories at the same time
 
-Code Used-
+Command Used-
 touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
 mkdir friends family work
 ls -l
